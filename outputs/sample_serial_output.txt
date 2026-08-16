@@ -1,0 +1,19 @@
+---------------------------------
+Slot 1: FREE
+Slot 2: FREE
+Slot 3: FREE
+Slot 4: FREE
+Available Slots: 4
+---------------------------------
+Slot 1: OCCUPIED
+Slot 2: FREE
+Slot 3: FREE
+Slot 4: FREE
+Available Slots: 3
+---------------------------------
+Slot 1: OCCUPIED
+Slot 2: OCCUPIED
+Slot 3: OCCUPIED
+Slot 4: OCCUPIED
+Available Slots: 0
+STATUS: PARKING FULL - Buzzer ON, Gate CLOSED

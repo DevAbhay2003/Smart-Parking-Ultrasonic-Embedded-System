@@ -1,0 +1,4 @@
+sensor_mount_height_cm,recommended_threshold_cm,notes
+20,10,low ceiling mount - tight margin
+30,15,default used in this project
+45,25,high ceiling mount - wider margin
