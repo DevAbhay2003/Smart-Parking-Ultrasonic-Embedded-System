@@ -195,5 +195,12 @@ The system correctly classifies slot occupancy against the configured threshold,
 Practical experience with GPIO-level sensor interfacing, timing-based distance measurement, threshold-based decision logic, multi-peripheral integration (LED/buzzer/LCD/servo) on one microcontroller, and structuring an embedded project for both hardware and simulated demonstration.
 
 ## Author
+## 👤 Author
 
-_Add your name, course, and institution here._
+*Abhishek Basu* — Embedded Systems Student
+GitHub: `[DevAbhay2003](https://github.com/DevAbhay2003?tab=repositories)` · 
+LinkedIn: `[Abhishek Basu](https://www.linkedin.com/in/abhishek-basu-68b1b1342/)`
+
+## 📄 License
+
+MIT License — free to use and modify for learning purposes.
